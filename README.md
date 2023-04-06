@@ -59,7 +59,7 @@ To get a local copy up and running follow these simple example steps.
 
 In order to run this project you need:
 
-Follow the link to Rails back-end repo (https://github.com/FuadNabi/hello-react-front-end/)
+Follow the link to Rails back-end repo (https://github.com/FuadNabi/hello-rails-back-end/)
 Then follow the instructions in back-end's README to install and run it.
 ### Setup
 
