@@ -59,9 +59,8 @@ To get a local copy up and running follow these simple example steps.
 
 In order to run this project you need:
 
-- Install ruby on your computer or run in with docker
-- Run `ruby main`
-
+Follow the link to Rails back-end repo (https://github.com/FuadNabi/hello-react-front-end/)
+Then follow the instructions in back-end's README to install and run it.
 ### Setup
 
 Clone this repository by using the command line :
