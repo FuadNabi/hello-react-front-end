@@ -1,7 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit';
 import getText from './getText';
 
-
 const textSlice = createSlice({
   name: 'text',
   initialState: {
